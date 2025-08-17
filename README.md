@@ -6,11 +6,11 @@ This project focuses on designing a smart conveyor belt system integrated with *
 
  Features
 
-* ✅ IoT sensor integration (vibration & temperature)
-* ✅ Real-time monitoring via cloud dashboard (MQTT protocol)
-* ✅ Predictive maintenance using **Random Forest classifier**
-* ✅ Alerts for early fault detection
-* ✅ CAD-based conveyor design with material selection
+*  IoT sensor integration (vibration & temperature)
+*  Real-time monitoring via cloud dashboard (MQTT protocol)
+*  Predictive maintenance using **Random Forest classifier**
+*  Alerts for early fault detection
+*  CAD-based conveyor design with material selection
 
  Project Structure
 
